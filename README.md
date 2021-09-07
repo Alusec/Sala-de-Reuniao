@@ -1,2 +1,3 @@
-# Sala-de-Reuniao
-Cliente de Sala de Reunião com Java &amp; Angular
+# Sala de Reuniao com Angular&Java
+
+Cliente de Sala de Reunião com Angular e Java, para Digital Innovation One
